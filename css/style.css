@@ -7,7 +7,7 @@ body {
 }
 
 .horizontal-button {
-    background-color: aqua;
+    
     height: 100px;
     margin: 15px 0px;
 }
@@ -18,7 +18,19 @@ body {
     padding: 8% 0;
     font-size: 32px;
 }
-
+.button a:hover{
+    text-decoration: none;
+    
+}
+#donar{
+    background-color: dodgerblue;
+}
+#support{
+    background-color: firebrick;
+}
+#result{
+    background-color: chartreuse
+}
 .join {
     background-color: blue;
     margin: 15px 0px;
@@ -29,4 +41,9 @@ body {
     text-align: center;
     padding: 80% 0;
     font-size: 32px;
+}
+.map{
+    height:350px;
+    width: 70%;
+    margin-left: 15%;
 }
