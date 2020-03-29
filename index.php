@@ -22,9 +22,9 @@
     <!-- Page Content -->
     <div class="container">
         <section class="donation">
-          
-               
-           
+
+
+
             <div class="row">
                 <div class="col-md-6">
                     <h1>Title</h1>
@@ -50,20 +50,24 @@
                     </a>
                 </div>
                 <div class="col-md-2 join">
-                   
-                    <a href=""><h1>Join Us</h1></a>
+
+                    <a href="">
+                        <h1>Join Us</h1>
+                    </a>
                 </div>
                 <div class="col-md-6">
-                        <img src="img/bd_map.jpg" alt="" class="map">
-                    </div>
+                    <img src="img/bd_map.jpg" alt="" class="map">
+                </div>
             </div>
-            
+
 
 
 
         </section>
     </div>
-
+    <footer class="footer fixed-bottom">
+        <p>Copyright 2020. Pandemic Crisis Response Team</p>
+    </footer>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.slim.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
