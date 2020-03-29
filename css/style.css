@@ -1,0 +1,32 @@
+body {
+    font-size: 14px;
+}
+
+.donation {
+    margin-top: 30px;
+}
+
+.horizontal-button {
+    background-color: aqua;
+    height: 100px;
+    margin: 15px 0px;
+}
+
+.horizontal-button h1 {
+    color: white;
+    text-align: center;
+    padding: 8% 0;
+    font-size: 32px;
+}
+
+.join {
+    background-color: blue;
+    margin: 15px 0px;
+}
+
+.join h1 {
+    color: white;
+    text-align: center;
+    padding: 80% 0;
+    font-size: 32px;
+}
