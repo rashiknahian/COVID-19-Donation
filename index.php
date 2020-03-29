@@ -33,7 +33,7 @@
                             <h1>I am Seeking Support</h1>
                         </div>
                     </a>
-                    <a href="">
+                    <a href="result.php">
                         <div class="col-md-12 horizontal-button" id="result">
                             <h1>See The Total Result</h1>
                         </div>

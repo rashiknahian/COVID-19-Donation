@@ -54,7 +54,8 @@ footer p{
 .title{
     height: 80px;
     background-color: darksalmon;
-    margin: 15px 0px;
+    margin-top: 15px;
+    margin-bottom: 30px;
 }
 .title h1{
     text-align: center;
