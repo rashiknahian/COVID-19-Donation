@@ -22,13 +22,13 @@
             </div>
             <div class="row button">
                 <div class="col-md-4 ">
-                    <a href="">
+                    <a href="donation.php">
                         <div class="col-md-12 horizontal-button" id="donar">
                             <h1>I am a Donar</h1>
 
                         </div>
                     </a>
-                    <a href="">
+                    <a href="seeking.php">
                         <div class="col-md-12 horizontal-button" id="support">
                             <h1>I am Seeking Support</h1>
                         </div>

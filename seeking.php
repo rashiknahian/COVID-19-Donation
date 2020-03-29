@@ -13,7 +13,7 @@
     <div class="container">
         <section class="donation">
             <div class="col-md-12 title">
-                <h1>I am a Donar</h1>
+                <h1>I am Seeking Donation</h1>
             </div>
             <form action="">
                 <div class="form-group">
